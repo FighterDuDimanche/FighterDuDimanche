@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Le Fighter du Dimanche</title>
+    <link>https://fighterdudimanche.github.io/</link>
+    <description>Recent content on Le Fighter du Dimanche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 07 Aug 2016 16:36:10 +0200</lastBuildDate>
+    <atom:link href="https://fighterdudimanche.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A new fighter is born!</title>
+      <link>https://fighterdudimanche.github.io/article/new-fighter/</link>
+      <pubDate>Sun, 07 Aug 2016 16:36:10 +0200</pubDate>
+      
+      <guid>https://fighterdudimanche.github.io/article/new-fighter/</guid>
+      <description>&lt;p&gt;read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
